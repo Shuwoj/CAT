@@ -1,0 +1,1 @@
+al of", num,"is",factorial(num))
